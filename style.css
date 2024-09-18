@@ -5,9 +5,22 @@
     width: 300px;           
     margin: 0px auto 0px auto;      
     box-shadow:  5px 5px 15px rgba(0, 0, 0, 0.3);
-    background-color:  rgb(215, 237, 237);  
+    background-color:  #f0f5f9;  
     border-radius: 5px; 
     text-align: center;
+  }
+
+  .box3 {
+    display: block;
+    padding: 0px 20px 60px 60px;   
+    max-width: 1000px;     
+    width: 300px;           
+    margin: 0px auto 0px auto;      
+    box-shadow:  5px 5px 15px rgba(0, 0, 0, 0.3);
+    background-color:  #f0f5f9;
+    border-radius: 5px; 
+    text-align: center;
+    align-content: center;
   }
 .NoteVote {
 text-align: center;
@@ -21,7 +34,15 @@ text-align: center;
     width: 300px;           
     margin: 20px auto 0px auto;      
     box-shadow:  5px 5px 15px rgba(0, 0, 0, 0.3);
-    background-color:  rgb(215, 237, 237);  
+    background-color:  #f0f5f9; 
     border-radius: 5px; 
     text-align: center;
+  }
+  .button1{
+    border-radius: 3px;
+    border-width: 1px;
+  }
+
+  .words{
+    font-style: Isidora Light;
   }
