@@ -1,0 +1,23 @@
+[
+    {
+        "identifier": "5656",
+        "creator": "Yuval",
+        "noteText": "For the Emperor!",
+        "userUpvote":["zox610", "jus543"],
+        "userDownvote": ["lki950", "gtu758z"]
+    },
+    {
+        "identifier": "7878",
+        "creator": "Zana",
+        "noteText": "I like f1",
+        "userUpvote":["jru756", "ygn360"],
+        "userDownvote": ["jul897", "fok654"]
+    },
+    {
+        "identifier": "9090",
+        "creator": "Aaron",
+        "noteText": "I like Lola Amor",
+        "userUpvote":["tus756", "htv956"],
+        "userDownvote": ["ads498","bhl345"]
+    }
+]
