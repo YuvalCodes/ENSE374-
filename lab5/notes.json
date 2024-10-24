@@ -1,0 +1,23 @@
+[
+    {
+        "identifier": "1",
+        "creator": "User A",
+        "noteText": "For the Emperor!",
+        "userUpvote":["zox610", "jus543"],
+        "userDownvote": ["lki950", "gtu758z"]
+    },
+    {
+        "identifier": "2",
+        "creator": "User B",
+        "noteText": "I like f1",
+        "userUpvote":["jru756", "ygn360"],
+        "userDownvote": ["jul897", "fok654"]
+    },
+    {
+        "identifier": "3",
+        "creator": "User C",
+        "noteText": "I like Lola Amor",
+        "userUpvote":["tus756", "htv956"],
+        "userDownvote": ["ads498","bhl345"]
+    }
+]
